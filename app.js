@@ -66,4 +66,4 @@ function applySort() {
     const key = document.getElementById("sort").value;
     renderCards(sortBy(movies, key, key !== "title"));
 }
-renderCards(movies);
+applySort();
