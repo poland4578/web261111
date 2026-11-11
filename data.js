@@ -36,5 +36,12 @@ const movies = [
         date: "1997-07-12",
         rating: 8.3, 
         poster: "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg"
+    },
+    {
+        title: "암살자들(들)", 
+        year: 2026, 
+        date: "2026-09-23",
+        rating: 7.2, 
+        poster: "/c55ijsOdntj6P25vDwHLdgsBpmV.jpg"
     }
 ];

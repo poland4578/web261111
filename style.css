@@ -314,3 +314,6 @@ body.is-loading .card {
         background-position: 0 50%; 
     }
 }
+
+.toolbar { display: flex; align-items: center; gap: 12px; color: #fff; }
+.card.hot .badge { background: crimson; color: #fff; }
